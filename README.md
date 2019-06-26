@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## My Video Walkthrough
 
-![] https://github.com/haleyharelson/SimpleTodo/blob/master/README.md
+![] (https://github.com/haleyharelson/SimpleTodo/blob/master/README.md)
 
 ## Notes
 
